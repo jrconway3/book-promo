@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"display"
+			],
+			[
+				"attachm",
+				"attachment_name"
+			],
+			[
+				"attribute_t",
+				"attribute_taxonomy_name"
+			],
+			[
+				"docume",
+				"document_file_id"
+			],
+			[
+				"docum",
+				"document_file_id"
+			],
+			[
+				"gallery",
+				"gallery_url"
+			],
+			[
+				"_",
+				"_customizable"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1649,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 85.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Personal Files/Code/personal/websites/others/debug/book-promotion/app/controllers/home_controller.rb",
+		"/C/Personal Files/Code/contract/matthewsheffield/shadyeyedeas.com/wp-content/themes/topshop/woocommerce/single-product/product-custom-image.php",
+		"/C/Personal Files/Code/contract/matthewsheffield/shadyeyedeas.com/wp-content/themes/topshop/custom-metabox.css",
+		"/C/Personal Files/Code/contract/matthewsheffield/shadyeyedeas.com/wp-content/themes/topshop/custom-images.css",
+		"/C/Personal Files/Code/contract/ponticlaro/backwards/README.md",
+		"/C/Personal Files/Shared/Dropbox/Personal/htdocs/personal/github/games/html5/index.php",
+		"/C/utils/DevKit64/config.yml",
+		"/C/Personal Files/Code/personal/resources/Frameworks/2.1.0/application/controllers/welcome.php",
+		"/C/Personal Files/Code/personal/resources/Frameworks/2.1.0/index.php",
+		"/C/Personal Files/Code/contract/matthewsheffield/shadyeyedeas.com/wp-config.php",
+		"/C/Personal Files/Code/contract/matthewsheffield/shadyeyedeas.com/wp-content/themes/topshop/js/custom-images.js",
+		"/C/Personal Files/Code/contract/matthewsheffield/shadyeyedeas.com/wp-content/themes/topshop/includes/woocommerce/woocommerce-config.php",
+		"/C/Personal Files/Code/contract/matthewsheffield/shadyeyedeas.com/wp-content/themes/topshop/functions.php",
+		"/C/Personal Files/Code/contract/matthewsheffield/shadyeyedeas.com/info.php",
+		"/C/Personal Files/Code/htdocs/contract/matthewsheffield/shadyeyedeas.com/wp-content/themes/topshop/custom-metabox.css",
+		"/C/Personal Files/Code/htdocs/contract/ponticlaro/rupert-neve/app/public/wp-content/themes/neve/assets/sass/admin/_jquery-sortable.scss",
+		"/C/Personal Files/Code/htdocs/contract/ponticlaro/rupert-neve/app/public/wp-content/themes/neve/assets/sass/admin/_admin-styles.scss",
+		"/C/Personal Files/Code/htdocs/contract/ponticlaro/443-www/app/public/wp-content/themes/443/assets/js/admin-application.js",
+		"/C/Personal Files/Code/htdocs/contract/ponticlaro/meditation-www/archive-original/js/tinymce/jscripts/tiny_mce/plugins/table/row.htm",
+		"/C/Personal Files/Code/htdocs/contract/ponticlaro/rupert-neve/app/public/wp-content/plugins/ponticlaro-wp-s3/vendor/aws/aws-sdk-php/docs/service-route53.rst",
+		"/C/Personal Files/Code/htdocs/contract/ponticlaro/rupert-neve/app/public/wp-admin/css/ie-rtl.css",
+		"/C/Users/JaidynReiman/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/JaidynReiman/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Personal Files/Code/htdocs/contract/matthewsheffield/shadyeyedeas.com/wp-content/themes/topshop/functions.php",
+		"/C/Personal Files/Code/htdocs/contract/matthewsheffield/shadyeyedeas.com/wp-content/themes/topshop/woocommerce/single-product/product-custom-image.php",
+		"/C/Personal Files/Code/htdocs/contract/matthewsheffield/shadyeyedeas.com/wp-config.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"flex",
+			"homepage-",
+			"image",
+			"n",
+			"includes",
+			"$attribute_label",
+			"$has_terms",
+			"$post_terms",
+			"$position",
+			"width",
+			"-",
+			"col",
+			"images",
+			"-row",
+			"doc.",
+			"id=\"gallery_image",
+			"document",
+			"doc_file_",
+			"document-",
+			"?>\n",
+			"details"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ipad-manual-",
+			"ipad-manual",
+			"-col",
+			"document.",
+			"doc",
+			"doc-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/routes.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "BookPromo.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Personal Files\\Code\\contract\\ponticlaro\\Ponticlaro.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 327.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
